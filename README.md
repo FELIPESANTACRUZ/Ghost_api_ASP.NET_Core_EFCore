@@ -2,7 +2,7 @@
  Api com migrations ,cadastro produtos e listagem por categorias
 
 
-![teste Postman/Produto](../master/Postman/produto.png)
+![teste Postman/Produto](../master/Postman/produto)
 ![teste Postman / título vazio](../master/Postman/títuloVazio.png)
 ![teste Postman / título + categoria](../master/Postman/títuloCategoria.png)
 ![teste Postman / título categoria vazia](../master/Postman/títuloCategoriaVazia.png)
