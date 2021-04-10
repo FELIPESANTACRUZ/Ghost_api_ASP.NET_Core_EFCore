@@ -1,7 +1,7 @@
 # Ghost_api_ASP.NET_Core_EFCore
  Api com migrations ,cadastro produtos e listagem por categorias
 
-![teste Postman/Produto](../master/Postman/produto.png)
+![teste Postman/Produto](../Postman/produto.png)
 ![teste Postman / título vazio](../master/Postman/títuloVazio.png)
 ![teste Postman / título + categoria](../master/Postman/títuloCategoria.png)
 ![teste Postman / título categoria vazia](../master/Postman/títuloCategoriaVazia.png)
